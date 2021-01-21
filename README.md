@@ -2,7 +2,7 @@
 
 说明：认知与改变阅读营，学习吸收后得到什么，自身有哪些改变，
 
-## 协作工具
+## 流通工具
 
 - Things 任务管理 ：<things:///show?id=5D446E2B-E429-45C4-AFCC-B3436265D484>
 - WorkFlowy 仓库：https://workflowy.com/#/04513ac918bf
@@ -17,9 +17,9 @@
 
 ## 教学计划
 
-- 日历：[课程组提供订阅](https://p26-caldav.icloud.com/published/2/NDc1MDQ4MDQyNDc1MDQ4MM5zPn5IY8c9Xu8svPESJYzDbOcgTIKJ2PJQFICYTBF1-O2KYxPCNqxeeF1bAYPGAtDIbbu01hQTY4RMVJZwb34)
+- 日历：[课程组提供订阅链接](https://p26-caldav.icloud.com/published/2/NDc1MDQ4MDQyNDc1MDQ4MM5zPn5IY8c9Xu8svPESJYzDbOcgTIKJ2PJQFICYTBF1-O2KYxPCNqxeeF1bAYPGAtDIbbu01hQTY4RMVJZwb34)
 
-**书籍电子版**
+**电子版在线阅读**
 
 - [认知心理学及其启示 第 7 版](http://reader.epubee.com/books/mobile/1b/1becb7e39bd2de0ad33fef12275f1747/text00001.html)
 
@@ -27,7 +27,7 @@
 
 ## 各渠道分享
 
-- M1W2：教练答疑
+- M1W2：教练答疑分享 [阅读方法论](CONTENT/210121-M1W2：教练答疑.md) 
 
 开学典礼
 
@@ -47,3 +47,7 @@
 - M1W4：[读书笔记](CONTENT/210121-M1W4notes.md)
 
 结业典礼
+
+## Changelog
+
+- 210121 add M1 作业；微明教练分享
