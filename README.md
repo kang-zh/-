@@ -2,7 +2,7 @@
 
 - Things 任务管理 ：<things:///show?id=5D446E2B-E429-45C4-AFCC-B3436265D484>
 - WorkFlowy 仓库：<https://workflowy.com/#/04513ac918bf>
-- GitHub 仓库：链接
+- GitHub 仓库：[链接](https://github.com/kang-zh/-)
 - DEVONthink : 链接
 - Zotero Collection ：链接
 - 本地文档：/Users/zhangkang/Documents/kangzh 文档/认知与改变
